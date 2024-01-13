@@ -2,7 +2,7 @@
 
 <img align="right" alt="Kurumi" height="200px" src="https://i.ibb.co/6rKTSy6/removal-ai-tmp-6449641c250d3-EO52-QI.png"/>
 
-## Junior Frontend Developer
+## Frontend Developer
 
 💼 I'm a former Odoo developer who's excited to transition to frontend development and dive into the world of React. <br/>
 💻 I love crafting user interfaces that are not only functional, but also visually stunning and easy to use.<br/>
